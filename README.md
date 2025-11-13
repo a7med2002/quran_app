@@ -81,11 +81,7 @@ This structure ensures **maintainability**, **performance**, and **ease of exten
 
 You can download the latest version of the **Quran App** APK directly from Google Drive:  
 
-<<<<<<< HEAD
 👉 [**Download Quran App (APK)**](https://drive.google.com/file/d/1nRRKKxxA1SdBItYZjjiU423kaTeMgBEn/view?usp=sharing)  
-=======
-👉 [**Download Quran App (APK)**](https://drive.google.com/your-apk-link-here)  
->>>>>>> 89c0516ecb737d08ab3ab2417bf02c8dc7b2237b
 
 ---
 
