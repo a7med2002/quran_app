@@ -42,13 +42,13 @@ This structure ensures **maintainability**, **performance**, and **ease of exten
 
 ## ✨ Features  
 
-- 🕋 **Qur’an Browser** | Browse all 114 surahs with ayah counts and high-quality page images. |
-- 🤲 **Azkar Categories** | Read daily Azkar loaded from local JSON assets. |
-- 📜 **Ahadith Section** | Display collections of authentic Ahadith in Arabic. |
-- 🔢 **Digital Tasbih** | Simple tasbih counter with reset functionality. |
-- 🔍 **Search** | Search within surahs or azkar for quick access. |
-- 🌐 **RTL Localization** | Fully localized for Arabic users (RTL support). |
-- 💫 **Polished UI** | Custom font, beautiful color palette, and Lottie animations. |
+- 🕋 **Qur’an Browser** | Browse all 114 surahs with ayah counts and high-quality page images. 
+- 🤲 **Azkar Categories** | Read daily Azkar loaded from local JSON assets. 
+- 📜 **Ahadith Section** | Display collections of authentic Ahadith in Arabic. 
+- 🔢 **Digital Tasbih** | Simple tasbih counter with reset functionality. 
+- 🔍 **Search** | Search within surahs or azkar for quick access. 
+- 🌐 **RTL Localization** | Fully localized for Arabic users (RTL support). 
+- 💫 **Polished UI** | Custom font, beautiful color palette, and Lottie animations. 
 
 ---
 
@@ -72,6 +72,16 @@ This structure ensures **maintainability**, **performance**, and **ease of exten
 ![app_view3](assets/images/view3.png)
 
 ![app_view4](assets/images/view4.png)
+
+---
+
+## 📦 Download APK  
+
+You can download the latest version of the **Quran App** APK directly from Google Drive:  
+
+👉 [**Download Quran App (APK)**](https://drive.google.com/file/d/1nRRKKxxA1SdBItYZjjiU423kaTeMgBEn/view?usp=sharing)  
+
+---
 
 ## 🌐 Social Links
 
