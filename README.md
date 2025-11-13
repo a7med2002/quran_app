@@ -63,6 +63,8 @@ This structure ensures **maintainability**, **performance**, and **ease of exten
 3. **Run the app**
 - flutter run
 
+---
+
 ## 🖼️ Screenshots
 
 ![app_view1](assets/images/view1.png)
@@ -72,6 +74,16 @@ This structure ensures **maintainability**, **performance**, and **ease of exten
 ![app_view3](assets/images/view3.png)
 
 ![app_view4](assets/images/view4.png)
+
+---
+
+## 📦 Download APK  
+
+You can download the latest version of the **Quran App** APK directly from Google Drive:  
+
+👉 [**Download Quran App (APK)**](https://drive.google.com/your-apk-link-here)  
+
+---
 
 ## 🌐 Social Links
 
